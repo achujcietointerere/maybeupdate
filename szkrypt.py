@@ -26,7 +26,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 # Konfiguracja
-APP_VERSION = "0.6"
+APP_VERSION = "0.8"
 WEBAPP_URL = "https://www.ea.com/pl-pl/ea-sports-fc/ultimate-team/web-app/"
 os.makedirs('data', exist_ok=True)
 
